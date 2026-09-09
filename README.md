@@ -1,12 +1,10 @@
 # Hi, I'm QL WEI
 
-**code for pretty life**
-
 Full-Stack Dev / Designer  
 Vibe coder / Make small things  
 Living in Chiang Mai
 
-[qilei.org](https://qilei.org) · [Resume](https://qilei.org/resume) · [Twitter](https://twitter.com/qilei) · [qilei0529@gmail.com](mailto:qilei0529@gmail.com)
+[qilei.org](https://qilei.org) · [Resume](https://qilei.org/resume) · [Twitter](https://twitter.com/qilei) 
 
 ## Things I have made
 
